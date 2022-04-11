@@ -1,34 +1,21 @@
-## Usage
+# SolidJS Jobs Listing & SolidJS Developers/Freelancers Listing
 
-Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
+An attempt to curate all SolidJS jobs in one place and also find SolidJS talent/developers/freelancers. As the jobs and talents are posted through GitHub, hopefully the quality of jobs and freelancers will be good.
 
-This is the reason you see a `pnpm-lock.yaml`. That being said, any package manager will work. This file can be safely be removed once you clone a template.
+## Demo
 
-```bash
-$ npm install # or pnpm install or yarn install
-```
+[SolidJS Jobs Listing & SolidJS Developers/Freelancers Listing](https://rrjanbiah.github.io/solidjs-jobs/)
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+## Architecture / Approach
 
-## Available Scripts
+1. Keep the jobs and developers in a CSV in GitHub
+1. New jobs or developers listing through PR or by submitting an issue
+1. KISS
 
-In the project directory, you can run:
+## Support / Sponsor
 
-### `npm dev` or `npm start`
+**Hire Me**, **Recommend Me** for any remote/freelancer opportunity
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Contact Email: rrjanbiah-at-Y!com
 
-The page will reload if you make edits.<br>
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Deployment
-
-You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+Twitter: [@rrjanbiah](https://twitter.com/rrjanbiah) (DM open)
