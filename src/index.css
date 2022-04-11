@@ -18,7 +18,7 @@
 }
 
 /* svg animations */
-@keyframes slide-out-tr{0 % { transform: translateY(0) translateX(0);opacity: 1 }to{transform:translateY(-10px) translateX(10px);opacity:0}}
+@keyframes slide-out-tr{0% { transform: translateY(0) translateX(0);opacity: 1 }to{transform:translateY(-10px) translateX(10px);opacity:0}}
 
-@keyframes happy{0 % { stroke-dashoffset:0}to{stroke-dashoffset:200}}
+@keyframes happy{0% { stroke-dashoffset:0}to{stroke-dashoffset:200}}
 
